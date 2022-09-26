@@ -75,3 +75,21 @@ Swift UI Official Tutorial supplied by Apple.
     - 모델집합의 ForEach 문 같다. 
     - `landmarks` 의 타입은 `[Landmark]` 이고 `identifiable` 프로토콜을 채택하여 id 값으로 이 타입을 식별한다.   
 
+## Tutorial 3.
+
+![Badges](https://user-images.githubusercontent.com/50472122/192254201-b0ff461b-a603-44bb-bb56-0221d11a2ea8.png)
+
+bezier path 를 이용해서 그림을 그리는 것이 주요 미션이였는데, 
+평소하고 그림 그리는 로직은 비슷하다. 
+
+- 본격적으로 그림을 그리는 앱을 연습한다면 해볼만 하겠지만 일단은 넘어간다. 
+- 뱃지 같은 경우도 그림을 그리기 보단 이미지를 다운로드 받아서 쓰는 경우가 더 많을 거같다. 
+
+## Tutorial 4. 
+
+https://user-images.githubusercontent.com/50472122/192254912-91a14f8f-a27e-4cd4-8a9d-aceb9f47a67e.mov
+
+카테고리별로 횡 스크롤 뷰를 넣는 뷰
+
+`CategoryHome` 을 보면 Tab 메뉴도 들어간 것이 보인다. List와 ForEach 를 사용해서 구성한 부분이 인상깊다. 
+
